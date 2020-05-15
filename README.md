@@ -9,7 +9,7 @@ que retorna algo devidamente programado. Esse chatbot integra-se a um sistema de
 
 ### Demo:
 
-![alt text](images/demo.png)
+![alt text](Images/demo.png)
 
 #### Disclaimer
 
