@@ -8,8 +8,10 @@ Este simples aplicativo escaneia um código de barras ou QR code e encaminha par
 que retorna algo devidamente programado. Esse chatbot integra-se a um sistema de vendas da empresa.
 
 ### Demo:
+
 ![alt text](images/demo.png)
 
 #### Disclaimer
+
 Pode conter badsmells, portanto, ao longo do meu aprendizado com programação reativa, irei melhorá-lo. 
 O projeto está totalmente funcional.
